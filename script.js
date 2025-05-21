@@ -10,7 +10,7 @@ const modalContents = [
   {
     heading: "Modal 1 Heading",
     paragraph: "You lost the lion is feasting on you! But don't worry, you can try another door.",
-    image: "https://t4.ftcdn.net/jpg/11/06/51/53/360_F_1106515383_9CQYK7BrNroxvY1QFgArr8kTS57zs2Pj.jpg",
+    image: "https://t4.ftcdn.net/jpg/11/06/51/53/360_F_1106515383_9CQYK7BrNroxvY1QFgArr8kTS57zs2Pj.jpg ",
   },
   {
     heading: "Modal 2 Heading",
