@@ -31,7 +31,7 @@ const openModal = (index) => {
     <button class="close-modal">&times;</button>
     <h1>${content.heading}</h1>
     <p>${content.paragraph}</p>
-    <img src="${content.image}" alt="Modal image" style="width:100%; margin-top:2rem; border-radius:0.5rem;">
+    <img src="${content.image}" alt="Modal image" style="width:50%; margin-top:2rem; border-radius:0.5rem;">
   `;
   modal.classList.remove('hidden');
   overlay.classList.remove('hidden');
