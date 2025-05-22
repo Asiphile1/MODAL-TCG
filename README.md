@@ -18,8 +18,9 @@ This is a simple single-page project demonstrating how to use **HTML**, **CSS**,
 - **JavaScript** – for handling button click events and modal display logic
 
 ## 📸 Preview
+![Image](https://github.com/user-attachments/assets/9c378850-bf9b-4665-9135-740394d53589)
 
-
+![Image](https://github.com/user-attachments/assets/6f89413a-1588-4924-af82-37e0844fa94b)
 
 ## 💡 Features
 
